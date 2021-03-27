@@ -1,3 +1,8 @@
+html{
+    background-color: rgb(92, 92, 0);
+    background: linear-gradient(110deg, #ffebcd 60%, #efdfbb 60%)
+}
+
 img {
 border-radius: 50%;
 display: flex;
@@ -7,11 +12,11 @@ display: flex;
     display: flex;
     align-items: center;
     justify-content: center;
-    background: beige;
+    
 }
 
 img{
-    box-shadow: 3px 3px navy;
+    box-shadow: 3px 3px#002244;
 }
 
 .image {
@@ -22,12 +27,14 @@ img{
     padding-left: 10px;
     flex-basis: 40%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: navy;
-    text-shadow: 2px 2px red;
+    color:#002244;
+    
 }
 
 .description{
     display: flex;
+    padding-top: 30px;
+    justify-content: space-around;
 }
 
 
@@ -35,8 +42,21 @@ img{
     width: 250px;
     flex-basis: 50%;
     padding-left: 10px;
+    background-color:#002244;
+    color: beige;
+    box-shadow: 5px 5px #efdfbb;
+    
+    
 }
 
+.skills{
+    padding-left: 30px;
+    background-color: #80755a;
+    box-shadow: 4px 4px #efdfbb;
+    width: 175px;
+    color: beige;
+    
+}
 
 /*p {
 background: navy;
