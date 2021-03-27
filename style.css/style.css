@@ -44,7 +44,7 @@ img{
     padding-left: 10px;
     background-color:#002244;
     color: beige;
-    box-shadow: 5px 5px #efdfbb;
+    box-shadow: 5px 5px #e6d09e;
     border-radius: 10%;
     
     
@@ -53,7 +53,7 @@ img{
 .skills{
     padding-left: 30px;
     background-color: #80755a;
-    box-shadow: 4px 4px #efdfbb;
+    box-shadow: 4px 4px #002244;
     width: 175px;
     height: 175px;
     color: beige;
@@ -67,6 +67,7 @@ img{
     padding-top: 100px;
     justify-content: center;
     font-size: large;
+    
  
    
     
@@ -79,6 +80,7 @@ img{
    text-align: center;
    border-radius: 10%;
    color: #002244;
+   box-shadow: 3px 3px #002244;
    
 }
 
