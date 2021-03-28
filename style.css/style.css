@@ -20,7 +20,7 @@ img{
 }
 
 .image {
-    flex-basis: 30%
+    flex-basis: 10%
 }
 
 .name{
@@ -87,16 +87,16 @@ img{
 .Header{
     text-align: center;
     padding-top: 50px;
-    font-size: large;
+    font-size: xx-large
 }
 
 .Contact{
     display: flex;
     justify-content: space-around;
-    background: #80755a;
-    height: 22px;
+    background: #d2691e;
+    height: 25px;
     box-shadow: 2px 2px #002244;
-    font-size: larger;
+    font-size: x-large;
     color: blue;
 }
 
