@@ -33,7 +33,7 @@ img{
 
 .description{
     display: flex;
-    padding-top: 30px;
+    padding-top: 50px;
     justify-content: space-around;
 }
 
@@ -97,6 +97,7 @@ img{
     height: 22px;
     box-shadow: 2px 2px #002244;
     font-size: large;
+    color: blue;
 }
 
 /*p {
